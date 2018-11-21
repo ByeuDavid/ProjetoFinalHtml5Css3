@@ -1,0 +1,23 @@
+html, body{
+	margin: 0;
+	display: table;
+	height: 100%;
+	width: 100%;
+}
+
+.vrau {
+	height: auto;
+}
+
+footer{
+	display: table-row;
+	height: 30px;
+	background-color: #262626;
+	
+}
+p{
+	text-align: center;
+	font-family: calibri;
+	font-size: 16px;
+
+}

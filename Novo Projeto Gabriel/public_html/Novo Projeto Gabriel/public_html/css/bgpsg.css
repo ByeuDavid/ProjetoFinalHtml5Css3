@@ -1,0 +1,15 @@
+/*sobre*/
+html{
+	background: url(../img/sao1.jpg) no-repeat center center fixed;
+}
+
+.text-container{
+	max-width: 100%;
+	position: absolute;
+	top: 200;
+	left: 70;
+}
+
+p{
+	padding: 18px;
+}
