@@ -1,0 +1,44 @@
+/*sobre*/
+html{
+	background: url(../img/kirito1.jpg) no-repeat center center fixed;
+}
+
+.text-container{
+	max-width: 100%;
+	position: absolute;
+	top: 200;
+	left: 70;
+}
+
+section h1{
+	font-size: 30px;
+	font-family: sans-serif;
+	text-align: center;
+	margin-top: 14%;
+	color: #fff;
+
+}
+
+section p{
+	font-family: sans-serif;
+	text-align: center;
+	margin: 3%;
+	color: #fff;
+	font-size: 18px;
+}
+
+.git img{
+	width: 64px;
+	height: 64px;
+	text-align: center;
+	margin-top: 4%;
+	padding: 6%;
+}
+
+section h2{
+	margin-top: 4%;
+	color: #fff;
+	font-family: sans-serif;
+}
+
+
